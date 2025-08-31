@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Patidar</h1>
-<h3 align="center">A Passionate Full Stack Software Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gmail-patidaraayush1703@gmail.com-red?style=flat-square&logo=gmail" />
@@ -43,7 +43,7 @@ With a solid foundation in **Data Structures and Algorithms using C++**, I am al
 - **Languages:** C, C++, JavaScript, SQL, HTML5, CSS3, Basic Java, Basic Python  
 - **Frontend:** React.js, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Mongoose)  
+- **Database:** MongoDB (Mongoose), MYSQL(database)
 - **Tools:** Git, GitHub, VS Code, Postman  
 - **Areas of Interest:** Backend Development, System Design, Full Stack Engineering
 
